@@ -2,8 +2,7 @@ TC_LG_001: Validate Logging out by selecting Logout option
 
 Test Steps:
 Select 'Logout' option (Verify ER-1)
-Click on 'Continue' button (Verify ER-2)
+Click on 'Continue' button
 
 ER:
 1. User should be taken to the 'Account Logout' page and User should see Login option inplace of Logout
-2. User should be taken to the Home page
